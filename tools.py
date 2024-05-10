@@ -2,4 +2,5 @@ def update():
     """
     Method that updates something
     """
-    pass
+    print('This is printing to show status')
+    print('Pending changes')
